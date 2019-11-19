@@ -1,0 +1,50 @@
+﻿<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-tw">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>新增網頁1</title>
+</head>
+
+<body>
+
+<p><font face="Georgia">小吳是一位上進的年輕人，就讀物理研究所碩二。在一個風和日麗的下午，他收到訂購的「和蓮光電 SLM 」。</font></p>
+<p><font face="Georgia">小吳打開包裝，讀完說明書，打開電腦立刻連到「和蓮光電客戶專區」的網頁，畫面如下：</font></p>
+<p><img border="0" src="01.png" width="879" height="860"></p>
+<p>小吳發現自己是新客戶，還沒註冊成為會員，不能登入，所以點了「 REIGISTRATION 」想要註冊<font face="Georgia">，畫面如下：</font></p>
+<p><img border="0" src="02.png" width="879" height="860"></p>
+<p>電腦跳到新會員的註冊填寫資料畫面<font face="Georgia">，如下：</font></p>
+<p><img border="0" src="03.png" width="879" height="860"></p>
+<p><font face="Georgia">他打開產品包裝盒，找到一張神秘的小紙條寫著「 Invitation code to access JDC
+product server: 123456abcd」，填入第一格；接著輸入 email
+（以後的會員登入帳號）、兩次密碼、名、姓、防機器人與網頁爬蟲的勾勾，最後按下「 Sig Up 」按鈕，</font>畫面<font face="Georgia">如下：</font></p>
+<p><img border="0" src="04.png" width="879" height="860"></p>
+<p>接著網站出現小圓圈，在資料庫內檢查 invitation code 是否正確、與帳號是否已被使用，畫面<font face="Georgia">如下：</font></p>
+<p><img border="0" src="05.png" width="879" height="860"></p>
+<p>當 invitation code 正確、帳號也沒被註冊過，電腦中央出現「 Please check your email account and
+open the verification link to confirm your registration 」的文字，畫面<font face="Georgia">如下：</font></p>
+<p><img border="0" src="06.png" width="879" height="860"></p>
+<p>這段文字的意思是「請小吳證明他是這個 email 帳號的擁有者，所以請他到信箱內按下確認連結」，所以小吳就開啟他的 email
+信箱，果然收到一封確認信，示意畫面<font face="Georgia">如下：</font></p>
+<p><img border="0" src="07.png" width="879" height="860"></p>
+<p>小吳伸出他的纖纖玉手，在畫面點了確認連結：</p>
+<p><img border="0" src="08.png" width="879" height="860"></p>
+<p>過了一支菸的時間，電腦跳到一個新的畫面，中央出現一段文字「 Your account has been verified. You can login
+now. 」，畫面<font face="Georgia">如下：</font></p>
+<p><img border="0" src="09.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="10.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="11.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="12.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="13.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="14.png" width="879" height="860"></p>
+<p>　</p>
+<p><img border="0" src="15.png" width="879" height="860"></p>
+
+</body>
+
+</html>
